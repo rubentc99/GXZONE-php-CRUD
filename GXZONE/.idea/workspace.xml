@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a35e5ca-8622-4805-b74c-f19518edd801" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bXcSaphm6Mn7GzvRPs9blOmYL5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../procesosDAM" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\GXZONEcontactos\gestor" />
+      <recent name="C:\xampp\htdocs\GXZONEreformed\gestor" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\GXZONE\gestor" />
+      <recent name="C:\xampp\htdocs\GXZONE\gestor\includes" />
+      <recent name="C:\xampp\htdocs\GXZONE\gestor\js" />
+      <recent name="C:\xampp\htdocs\GXZONE\gestor\css" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a35e5ca-8622-4805-b74c-f19518edd801" name="Default Changelist" comment="" />
+      <created>1588781879208</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588781879208</updated>
+      <workItem from="1588781880788" duration="13528000" />
+      <workItem from="1589353980739" duration="11295000" />
+      <workItem from="1589366046149" duration="5996000" />
+      <workItem from="1589446377105" duration="1209000" />
+      <workItem from="1589623002880" duration="9000" />
+      <workItem from="1590073956016" duration="1642000" />
+      <workItem from="1590230215607" duration="24329000" />
+      <workItem from="1590283366321" duration="2761000" />
+      <workItem from="1590316976267" duration="706000" />
+      <workItem from="1590339453680" duration="7185000" />
+      <workItem from="1590349074456" duration="4242000" />
+      <workItem from="1590353770299" duration="5770000" />
+      <workItem from="1590398818793" duration="5484000" />
+      <workItem from="1590429263980" duration="11834000" />
+      <workItem from="1590482646509" duration="2706000" />
+      <workItem from="1590767062721" duration="18422000" />
+      <workItem from="1590833834189" duration="1854000" />
+      <workItem from="1590925724516" duration="2086000" />
+      <workItem from="1590969295714" duration="5550000" />
+      <workItem from="1591008846195" duration="1795000" />
+      <workItem from="1591082258922" duration="15466000" />
+      <workItem from="1591175459245" duration="5059000" />
+      <workItem from="1591203584409" duration="3862000" />
+      <workItem from="1591255320184" duration="5624000" />
+      <workItem from="1591277345976" duration="7410000" />
+      <workItem from="1591436332034" duration="12479000" />
+      <workItem from="1591526594639" duration="4944000" />
+      <workItem from="1591687575964" duration="2118000" />
+      <workItem from="1591868712488" duration="4788000" />
+      <workItem from="1591873903921" duration="145000" />
+      <workItem from="1591956344319" duration="14193000" />
+      <workItem from="1601891818743" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="476" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1591257648875">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="476" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1591257648875" />
+    <state x="743" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588782333080">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="743" y="114" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1588782333080" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1591874047052">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1591874047052" />
+    <state x="462" y="177" key="NewPhpClassDialog" timestamp="1591688291848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="462" y="177" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1591688291848" />
+    <state x="517" y="286" key="NewPhpFileDialog" timestamp="1591688211859">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="517" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1591688211859" />
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1591277431713">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591277431713" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1591204903459">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1591204903459" />
+  </component>
+</project>
